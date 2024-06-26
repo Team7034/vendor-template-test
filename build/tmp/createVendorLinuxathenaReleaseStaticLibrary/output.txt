@@ -1,0 +1,4 @@
+See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/createVendorLinuxathenaReleaseStaticLibrary/output.txt for all output for createVendorLinuxathenaReleaseStaticLibrary.
+archiving libVendor.a successful.
+
+Finished createVendorLinuxathenaReleaseStaticLibrary, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/createVendorLinuxathenaReleaseStaticLibrary/output.txt.

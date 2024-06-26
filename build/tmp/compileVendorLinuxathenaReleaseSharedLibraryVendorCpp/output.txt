@@ -1,0 +1,4 @@
+See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/compileVendorLinuxathenaReleaseSharedLibraryVendorCpp/output.txt for all output for compileVendorLinuxathenaReleaseSharedLibraryVendorCpp.
+compiling source.cpp successful.
+
+Finished compileVendorLinuxathenaReleaseSharedLibraryVendorCpp, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/compileVendorLinuxathenaReleaseSharedLibraryVendorCpp/output.txt.

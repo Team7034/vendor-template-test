@@ -1,0 +1,4 @@
+See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/linkVendorDriverLinuxathenaDebugSharedLibrary/output.txt for all output for linkVendorDriverLinuxathenaDebugSharedLibrary.
+linking libVendorDriver.so successful.
+
+Finished linkVendorDriverLinuxathenaDebugSharedLibrary, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/linkVendorDriverLinuxathenaDebugSharedLibrary/output.txt.
