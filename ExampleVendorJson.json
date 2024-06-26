@@ -5,9 +5,9 @@
     "frcYear": "2024",
     "uuid": "7dd27b36-4af0-4e33-aeb4-8d784f81843b",
     "mavenUrls": [
-        "ThisNeedsToBeTheRootMavenUrl"
+        "https://github.com/Team7034/vendor-template-test.git/buil/repos/releases"
     ],
-    "jsonUrl": "InsertSomeUrlHere",
+    "jsonUrl": "https://github.com/Team7034/vendor-template-test.git/ExampleVendorJson.json",
     "javaDependencies": [
         {
             "groupId": "com.vendor.frc",
