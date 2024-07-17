@@ -1,6 +1,0 @@
-See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/compileVendorDriverLinuxathenaReleaseSharedLibraryVendorDriverCpp/output.txt for all output for compileVendorDriverLinuxathenaReleaseSharedLibraryVendorDriverCpp.
-compiling driversource.cpp successful.
-
-compiling VendorJNI.cpp successful.
-
-Finished compileVendorDriverLinuxathenaReleaseSharedLibraryVendorDriverCpp, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/compileVendorDriverLinuxathenaReleaseSharedLibraryVendorDriverCpp/output.txt.

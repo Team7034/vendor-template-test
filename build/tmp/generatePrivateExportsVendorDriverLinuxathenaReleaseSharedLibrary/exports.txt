@@ -1,4 +1,0 @@
-VendorDriver {
-  global: JNI_OnLoad; JNI_OnUnload; Java_com_vendor_frc_VendorJNI_initialize; c_doThing; 
-  local: *;
-};

@@ -1,4 +1,0 @@
-See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/linkVendorLinuxathenaReleaseSharedLibrary/output.txt for all output for linkVendorLinuxathenaReleaseSharedLibrary.
-linking libVendor.so successful.
-
-Finished linkVendorLinuxathenaReleaseSharedLibrary, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/linkVendorLinuxathenaReleaseSharedLibrary/output.txt.

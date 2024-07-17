@@ -1,4 +1,0 @@
-See file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/createVendorDriverLinuxathenaDebugStaticLibrary/output.txt for all output for createVendorDriverLinuxathenaDebugStaticLibrary.
-archiving libVendorDriver.a successful.
-
-Finished createVendorDriverLinuxathenaDebugStaticLibrary, see full log file:///C:/Users/wlhsf/Documents/2024/vendor-template/build/tmp/createVendorDriverLinuxathenaDebugStaticLibrary/output.txt.
