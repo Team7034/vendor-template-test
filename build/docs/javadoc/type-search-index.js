@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.determined.swerve","l":"VendorJNI.Helper"},{"p":"com.determined.swerve","l":"TestClass"},{"p":"com.determined.swerve","l":"VendorJNI"}];updateSearchResults();

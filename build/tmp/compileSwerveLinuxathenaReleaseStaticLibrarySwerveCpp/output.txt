@@ -1,0 +1,8 @@
+See file:///C:/Users/wlhsf/Documents/2024/libswerve/build/tmp/compileSwerveLinuxathenaReleaseStaticLibrarySwerveCpp/output.txt for all output for compileSwerveLinuxathenaReleaseStaticLibrarySwerveCpp.
+compiling source.cpp failed.
+C:\Users\wlhsf\Documents\2024\libswerve\src\main\native\cpp\source.cpp:1:10: fatal error: header.h: No such file or directory
+    1 | #include "header.h"
+      |          ^~~~~~~~~~
+compilation terminated.
+
+Finished compileSwerveLinuxathenaReleaseStaticLibrarySwerveCpp, see full log file:///C:/Users/wlhsf/Documents/2024/libswerve/build/tmp/compileSwerveLinuxathenaReleaseStaticLibrarySwerveCpp/output.txt.
